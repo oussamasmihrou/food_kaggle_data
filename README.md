@@ -15,7 +15,7 @@ This project aims to clean and prepare the Open Food Facts dataset for further a
 
 ## How to Use
 
-1. **Open the Notebook:** Open the `OpenFoodFacts_DataAnalysis.ipynb` file in Google Colab.
+1. **Open the Notebook:** Open the `OpenFoodFacts_DataAnalysis.ipynb` file in Google Colab https://colab.research.google.com/drive/1hxXCRCGMdFM4buDlG43BU_VxUX-yYq7b?usp=sharing.
 2. **Mount Google Drive:** Mount your Google Drive to access the dataset (or upload it directly).
 3. **Run the Code:** Execute the code cells sequentially to perform the analysis and preprocessing.
 4. **Review Results:** Examine the generated visualizations, tables, and summary statistics to understand the data and the impact of preprocessing.
